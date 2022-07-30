@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box;
+    display: block;
+}
+
+html {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    color: #73879C;
+    background: #2A3F54;
+    font-family: "Helvetica Neue", Roboto, Arial, "Droid Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 1.471
+}
+
+a {
+    text-decoration: none;
+}
+
+.body {
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 0;
+}
+
+.main_container {
+    display: flex;
+
+}
+
+.nav_title a {
+    font-size: 30px;
+    color: rgba(255, 255, 255, 0.884);
+}
+
+.nav>li>a {
+    padding: 13px 15px 12px;
+}
+
+.site_title {
+
+}
+
+
+.main_menu_side {
+
+}
+
+.menu_section {
+
+}
+
+.side-menu {
+    display: block;
+}
+
+.child_menu {
+
+}
+
+.dashboard-content {
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+}
